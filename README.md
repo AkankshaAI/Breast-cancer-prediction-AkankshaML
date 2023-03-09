@@ -1,23 +1,27 @@
-# Breast Cancer Detection
-Breast Cancer Detection Using Machine Learning
+# Breast-Cancer-Early-Prediction
 
+### This model is built to identify women suffering from breast cancer in its early period .
 
-# What is Breast Cancer?
+## Website Frontend
+<img src="Frontend.png" alt="#" width="800" height="500">
 
-Cancer develops when changes in genes that control cell growth, known as mutations, occur. The mutations allow cells to divide and multiply in an uncontrolled, chaotic manner. The cells continue to proliferate, producing copies that are increasingly abnormal. In most cases, the cell copies eventually form a tumour.
+## Steps to be Followed 
 
-Breast cancer arises when a malignant (cancerous) tumour develops in the breast. Breast cancer tumours can metastasis (spread) to other regions of the body as they grow. The lymphatic system, strangely, is the body's major mechanism for manufacturing and distributing white blood cells and other cancer-fighting immune system cells throughout the body. Cancer cells that have not been killed by the lymphatic system's white blood cells travel via the lymphatic channels and settle in distant body sites, establishing new tumours and prolonging the illness process.
+* For the ease of the user instead of filling the fields of 25+ symptoms manually , we have implemented text detection in this model. 
 
-Breast cancer is not only a female illness. Breast cancer can develop in males, albeit it happens less commonly in men than in women. Our talk will be mostly about breast cancer as it applies to women, but much of the material is equally pertinent to males.
+* The user or the Hospital will have to download a template , which is the format in which data has to be reresented
 
-# Machine Learning :
+* Fed this template into lab report generater (in case of Hospitals) or enter manually the values corresponding to each symptoms
 
-This project uses the following Models:
-1. Logistic Regression
-2. LINEAR DISCRIMINANT ANALYSIS (LDA)
-3. SUPPORT VECTOR MACHINE (SVM)
-4. K- NEAREST NEIGHBOURS (KNNs)
+## To Test Our Application
 
-# Result:
+#### Download all the necessary modules in python 3.6 environmnet
+```python 
+pip install -r requirements.txt
+```
 
-Each model provides high accuracy with Linear Discriminative Analysis being the lowest with 86% and all the other model provide an accuracy of 88%.
+#### To run application
+```python 
+python app.py
+```
+#### Follow above steps to test the application
