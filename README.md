@@ -4,6 +4,10 @@
 
 ## Website Frontend
 <img src="frontend images/1.jpg" alt="#" width="800" height="500">
+<img src="frontend images/2.jpg" alt="#" width="800" height="500">
+<img src="frontend images/3.jpg" alt="#" width="800" height="500">
+<img src="frontend images/4.webp" alt="#" width="800" height="500">
+<img src="frontend images/5.webp" alt="#" width="800" height="500">
 
 ## Steps to be Followed 
 
