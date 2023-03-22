@@ -40,13 +40,13 @@ pip install -r requirements.txt
 First, we would like to increase the size of our dataset. Bringing access to a greater number of hospitals would give us increased amounts of data will give us more accurate results and would let us be much more confident in the diagnosis. Next, we would also want to increase the number of features in the dataset, giving us more variables to look at and input into the system. This would help take into account many of the other factors involved in the chances of breast cancer in people.
 
 ## What We Used
-Python
-Flask
-Numpy
-Pandas
-Scikit-Learn
-MongoDB / Pymongo
-HTML/CSS
-DNS
-Reactjs 
+* Python
+* Flask
+* Numpy
+* Pandas
+* Scikit-Learn
+* MongoDB / Pymongo
+* HTML/CSS
+* DNS
+* Reactjs 
 
