@@ -3,7 +3,7 @@
 ### This website and ML model is built to identify women suffering from breast cancer in its early period .
 
 ## Website Frontend
-<img src="Frontend.png" alt="#" width="800" height="500">
+<img src="frontend images/1.jpg" alt="#" width="800" height="500">
 
 ## Steps to be Followed 
 
