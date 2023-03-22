@@ -1,6 +1,6 @@
 # Breast-Cancer-Early-Prediction
 
-### This model is built to identify women suffering from breast cancer in its early period .
+### This website and ML model is built to identify women suffering from breast cancer in its early period .
 
 ## Website Frontend
 <img src="Frontend.png" alt="#" width="800" height="500">
